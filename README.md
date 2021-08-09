@@ -120,7 +120,7 @@
       ></a>
       </div>
       <div class="center">
-      <p> Bu website Solve  tarafından yazılmıştır.
+      <p> <br> Bu website Solve  tarafından yazılmıştır.
     </p>
      </div>
     </footer>
